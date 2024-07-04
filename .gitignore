@@ -24,3 +24,4 @@ geckodriver
 
 # Ignore egg-info directory
 kmvahini.egg-info/
+/readme2.md
