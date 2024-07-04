@@ -1,0 +1,26 @@
+**/__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+.venv/
+venv/
+ENV/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore data files
+data/
+*.csv
+*.xlsx
+
+# Ignore Selenium drivers (if you don't want to upload them)
+chromedriver
+geckodriver
+
+# Ignore egg-info directory
+kmvahini.egg-info/
