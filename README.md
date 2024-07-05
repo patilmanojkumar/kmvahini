@@ -1,7 +1,13 @@
 # Download market data from Krishimaratavahini! 
 
 <table border=1 cellpadding=10><tr><td>
+<h1 align="center"><b>Hi , I'm Manojkumar Patil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<br>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Scientist;Constant+Learner;"></a>
+</p>
 #### \*\*\* IMPORTANT LEGAL DISCLAIMER \*\*\*
 
 ---
@@ -39,13 +45,13 @@ $ pip install "kmvahini[optional]"
 ## Quick Start
 
 ```python
-import kmvahini as kv
+import kmvahini.scraper as scrape_website
 # Define parameters for scraping
-months = ["JANUARY"]
-years = ["2010"]
-commodities = ["BENGALGRAM"]
-markets = ["AllMarkets"]
-df = kv.scraper.scrape_website(months,years,commodities,markets)
+months = ['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER']
+years = ["2010"] # Data available from 2002 to till present
+commodities = ["BENGALGRAM"] #264 commodities data is available
+markets = ["AllMarkets"] # 164 markets
+df = scrape_website(months,years,commodities,markets)
 ...
 ```
 
