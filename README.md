@@ -23,12 +23,12 @@ KSAMB!'s data is intended for personal and Reserach use only.**
 
 ---
 
-**kmvahini** offers a threaded and Pythonic way to download market data from [Krishi Marata VahiniⓇ](https://krama.karnataka.gov.in/).
+**kmvahini** offers a threaded and Pythonic way to download market data from [Krishi Marata Vahini](https://krama.karnataka.gov.in/).
 
 ---
 
-- [Installation](#installation)
-- [Quick start](#quick-start)
+- [Installation](##installation)
+- [Quick start](##quick-start)
 ---
 
 ## Installation
