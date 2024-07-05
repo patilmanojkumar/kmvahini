@@ -14,10 +14,10 @@
 ** Krishi Marata Vahini is the registered trademark of `The Karnataka State Agricultural Marketing Board(KSAMB)` and `Department of Agricultural Marketing, Govt. of Karnataka!.`**
 
 kmvahini is **not** affiliated, endorsed, or vetted by KSAMB, GoK. It's an open-source tool that uses KSAMB's publicly available data, and is intended for research and educational purposes.
-**You should refer to KSAMB!'s terms of use**
+You should refer to KSAMB!'s terms of use**
 ([Terms of Use](https://krama.karnataka.gov.in/department.aspx?page=terms),
 [Privacy Policy](https://krama.karnataka.gov.in/department.aspx?page=privacy), and
-[Copyright Information](https://krama.karnataka.gov.in/department.aspx?page=copyright)) **for details on your rights to use the actual data downloaded. Remember - the KSAMB!'s data is intended for personal and Reserach use only.**
+[Copyright Information](https://krama.karnataka.gov.in/department.aspx?page=copyright)) for details on your rights to use the actual data downloaded. Remember - the KSAMB!'s data is intended for personal and Reserach use only.
 </td></tr></table>
 ---
 **kmvahini** offers a threaded and Pythonic way to download market data from [Krishi Marata Vahini](https://krama.karnataka.gov.in/).
