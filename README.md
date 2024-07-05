@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Scientist;Constant+Learner;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=One+Stop+Data+Source+Price+Data;kmvahini+1.0;"></a>
 </p>
 
 #### \*\*\* IMPORTANT LEGAL DISCLAIMER \*\*\*
