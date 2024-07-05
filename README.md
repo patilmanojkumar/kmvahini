@@ -20,7 +20,9 @@ You should refer to KSAMB!'s terms of use**
 [Copyright Information](https://krama.karnataka.gov.in/department.aspx?page=copyright)) for details on your rights to use the actual data downloaded. Remember - the KSAMB!'s data is intended for personal and Reserach use only.
 </td></tr></table>
 ---
+
 **kmvahini** offers a threaded and Pythonic way to download market data from [Krishi Marata Vahini](https://krama.karnataka.gov.in/).
+
 ---
 - [Installation](#installation)
 - [Quick start](#quick-start)
