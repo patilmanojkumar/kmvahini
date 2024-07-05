@@ -27,8 +27,8 @@ KSAMB!'s data is intended for personal and Reserach use only.**
 
 ---
 
-- [Installation](##installation)
-- [Quick start](##quick-start)
+- [Installation](#installation)
+- [Quick start](#quick-start)
 ---
 
 ## Installation
