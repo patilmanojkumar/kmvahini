@@ -1,7 +1,5 @@
-# Download market data from Krishimaratavahini! 
-
 <table border=1 cellpadding=10><tr><td>
-<h1 align="center"><b>Hi , I'm Manojkumar Patil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Download market data from Krishimaratavahini! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <br>
 
