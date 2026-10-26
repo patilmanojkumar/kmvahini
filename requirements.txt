@@ -4,7 +4,7 @@ lxml==5.2.2
 tqdm==4.66.4
 asttokens==2.4.1
 attrs==23.2.0
-certifi==2024.7.4
+certifi==2026.10.19
 cffi==1.16.0
 colorama==0.4.6
 comm==0.2.2
